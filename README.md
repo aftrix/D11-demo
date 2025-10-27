@@ -44,7 +44,7 @@ Pass: `DDEV_Admin_Pass`
 # Launch Site
 ```console
 → ddev launch
-# or automatically log in with:
+# or automatically login with:
 → ddev launch $(ddev drush uli)
 ```
 ## Users
